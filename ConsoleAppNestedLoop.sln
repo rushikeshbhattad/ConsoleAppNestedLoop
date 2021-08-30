@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleAppNestedLoop", "ConsoleAppNestedLoop\ConsoleAppNestedLoop.csproj", "{3233421F-82BE-4EA8-BD43-82D2EEADEFB4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3233421F-82BE-4EA8-BD43-82D2EEADEFB4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3233421F-82BE-4EA8-BD43-82D2EEADEFB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3233421F-82BE-4EA8-BD43-82D2EEADEFB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3233421F-82BE-4EA8-BD43-82D2EEADEFB4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C47F2564-0E57-4D11-8CDA-56F744E96A22}
+	EndGlobalSection
+EndGlobal
